@@ -2,23 +2,23 @@
 
 ## Kacy Gilbert for Botium Toys [fictional Company]
 
-### [ X ] The Federal Energy Regulatory Commission - North American Electric Reliability Corporation (FERC-NERC)
+### [] The Federal Energy Regulatory Commission - North American Electric Reliability Corporation (FERC-NERC)
 
     + The FERC-NERC regulation applies to organizations that work with electricity or that are involved with the U.S. and North American power grid.  Organizations have an obligation to prepare for, mitigate, and report any potential security incident that can negatively affect the power grid.  Organizations are legally required to adhere to the Critical Infrastructure Protection Reliability Standards (CIP) defined by the FERC.
 
-Explanation: Botium Toys maintains an on-premises equipment for business needs.
+Explanation: N/A
 
-### [  ] General Data Protection Regulation (GDPR)
+### [ X ] General Data Protection Regulation (GDPR)
 
     + GDPR is a European Union (E.U.) general data regulation that protects the processing of E.U. citizens' data and their right to privacy in and out of E.U. territory.  Additionally, if a breach occurs and a E.U. citizen's data is compormised, they must be informed within 72 hours of the incident.
 
-Explanation: Botium Toys doesn't process E.U. citizen data.
+Explanation: Botium Toys needs to adhere to GDPR because they conduct business and collect personal information from people worldwide, including the E.U.
 
-### [  ] Payment Card Industry Data Security Standard (PCI DSS)
+### [ X ] Payment Card Industry Data Security Standard (PCI DSS)
 
     + PCI DSS is an international security standard meant to ensure that organizations storing, accepting, processing, and transmitting credit card information do so in a secure environment.
 
-Explanation: Botium Toys' network is for employees and vendors, so no payment processing is needed.
+Explanation: Botium Toys needs to adhere to PCI DSS becauses they store, accept, process, and transmit credit card information in person and online.
 
 ### [  ] The Health Insurance Portability and Accountability Act (HIPAA)
 
@@ -30,4 +30,4 @@ Explanation: Not required for Botium Toys
 
     + The SOC1 and SOC2 are a series of reports that focus on an organizations user access policies ata different organizational levels.  They are used to assess an organizations financial compliance and levels of risk.  They also cover confidentiality, privacy, integrity, availability, security, and overall data safety.  Control failures in these areas can lead to fraud.
 
-Explanation: Must be implemented for Botium Toys Network for employee and vendor access.
+Explanation: Botium Toys needs to establish and enforce appropriate user access for internal and external (third-party vendor) personnel to mitigate risk and ensure data safety.
